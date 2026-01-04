@@ -103,5 +103,5 @@ The goal of this project is to demonstrate **end-to-end data analysis**, from ra
 
 ## 📷 Dashboard Preview
 
-*(Add dashboard screenshot here)*
+*(https://github.com/ankitrrrr/Coffee-sales-Dashboard/blob/main/Sales%20dashboad%20Image.png)*
 
